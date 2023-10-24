@@ -1,6 +1,5 @@
-# chatwith
-
-Chat Application 
+# ChatWith
+Android Chat Application 
 
 ## Getting Started
 1. Clone this repository using `git clone` command.
