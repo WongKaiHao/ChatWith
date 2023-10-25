@@ -62,20 +62,20 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCl9GJIgpZKsVBv-0ArDXl3ZOEPObjuc0g',
-    appId: '1:1069922306513:ios:db2bdf9cac8d1dc58df8f0',
-    messagingSenderId: '1069922306513',
-    projectId: 'chatwith-fcb71',
-    storageBucket: 'chatwith-fcb71.appspot.com',
-    iosBundleId: 'com.example.chatwith',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCl9GJIgpZKsVBv-0ArDXl3ZOEPObjuc0g',
-    appId: '1:1069922306513:ios:7aed3edcf0eb04768df8f0',
-    messagingSenderId: '1069922306513',
-    projectId: 'chatwith-fcb71',
-    storageBucket: 'chatwith-fcb71.appspot.com',
-    iosBundleId: 'com.example.chatwith.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
