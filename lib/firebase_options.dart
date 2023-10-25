@@ -44,21 +44,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyChp1O43LlHWkSJai19IfgNrB-hiFl62mk',
-    appId: '1:1069922306513:web:a174d65087ad9e738df8f0',
-    messagingSenderId: '1069922306513',
-    projectId: 'chatwith-fcb71',
-    authDomain: 'chatwith-fcb71.firebaseapp.com',
-    storageBucket: 'chatwith-fcb71.appspot.com',
-    measurementId: 'G-K5B0X9KMSV',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDCAvqIgNh7F7uWP8-KI6FmLRbYkRgkSzc',
-    appId: '1:1069922306513:android:028ec85619d5a1c28df8f0',
-    messagingSenderId: '1069922306513',
-    projectId: 'chatwith-fcb71',
-    storageBucket: 'chatwith-fcb71.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
