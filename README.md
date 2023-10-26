@@ -3,8 +3,12 @@ Android Chat Application
 
 ## Getting Started
 1. Clone this repository using `git clone` command.
-2. Setup Firebase.
+2. Setup Firebase including filling the API key in `lib/firebase_options.dart`.
 3. Dependencies installation using `flutter pub get` command in terminal.
+
+## Techs stack
+- Provider
+- cloud_firestore of Firebase
 
 ## Future Updates
 1. Group Chat
